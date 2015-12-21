@@ -1,5 +1,3 @@
-# HW6 for Distributed Systems
-
 ## User guide 
 
 **Compile**
